@@ -1,0 +1,4 @@
+Segurança da Informação:
+-A Guerra Cibernética: exploração, ataque e proteção no contexto de Comando e Controle (Gomes, Cordeiro e Pinheiro, ano 2016).
+-Conceitos para perícia forense computacional (Adriano Mauro Cansian)
+

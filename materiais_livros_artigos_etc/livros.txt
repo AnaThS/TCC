@@ -1,0 +1,8 @@
+Segurança da Informação:
+-Fundamentos de Segurança da Informação (Michele da Costa Galvão, ano 2015)
+-Criptografia e Segurança de Redes: princípios e práticas 6ºed (William Stallings, ano 2015)
+-Segurança em Redes: Fundamentos (Alexandre Fernandes de Moraes, ano 2010)
+-Segredos do hacker ético (Marcos Flávio Araújo Assunção, ano 2011)
+-Engenharia Social (Ian Mann, ano 2011)
+-Segurança de Redes (Luciano Gonçalvez de Carvalho, ano 2005)
+-Técnicas de Invasão (Bruno Fraga e Thompson Vangller, ano 2017)
